@@ -23,7 +23,7 @@ The system utilises a mySQL database consisting of three tables - personnel, dep
 
 ## Database Schema
 
-![Alt text](images/db_schema?raw=true "Optional Title")
+![Alt text](images/db_schema.png?raw=true "Optional Title")
 
 ## Site Screenshots
 
