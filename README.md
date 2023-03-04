@@ -21,6 +21,10 @@ Company data is presented to the user in three distinct tables - Employees, Depa
 
 The system utilises a mySQL database consisting of three tables - personnel, department and location. Relevant information is returned, created, updated or removed using SQL queries in PHP routines. Calls to these PHP routines are made using AJAX functions. The application also utilises the Bootstrap framework, giving it a clean, modern look.
 
+## Database Schema
+
+![Alt text](images/db_scheme?raw=true "Optional Title")
+
 ## Site Screenshots
 
 |                               Homepage                                |                              Add Employee                             |
